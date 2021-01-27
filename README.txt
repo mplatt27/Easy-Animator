@@ -4,7 +4,7 @@
 *   Melanie Platt and L.F                                                                  *
 *   April 13, 2020                                                                                *
 ***************************************************************************************************
-To run: Download jar file and use the following command line arguments:
+To run: Download jar file (in resources) and use the following command line arguments:
 -in "name-of-animation-file" -view "type-of-view" -out "where-output-show-go" -speed "integer-ticks-per-second"
 
 -in (input) and -view are mandatory, -out will default to System.out and speed 1 tick per second
